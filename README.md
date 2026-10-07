@@ -37,10 +37,8 @@ I made this project as a first-year mechanical engineering student to expand my 
 
 # Imports:
 matplotlib.pylpot
-
-    For graphing data and labelling important regions.
+- For graphing data and labelling important regions.
 
 numpy:
-
-    For data manipulation and analysis.
+- For data manipulation and analysis.
 
